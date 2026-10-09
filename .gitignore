@@ -105,3 +105,8 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Hand-made backups from the MiddleVR CAVE port. Git already holds the history of
+# the real manifest, lockfile and XR settings, so these local copies stay out of it.
+*.bak
+/_xr_settings_bak/
